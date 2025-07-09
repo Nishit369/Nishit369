@@ -11,6 +11,7 @@
 <p  style="margin: 6px 0; line-height: 1.5;">
   <em>
     Developer @ 
+    <a href="https://ijewel3d.com">iJewel3D</a>,
     <a href="https://weride.live">WeRide</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" style="vertical-align: middle;">
   </em>
