@@ -12,7 +12,7 @@
   <em>
     Developer @ 
     <a href="https://ijewel3d.com">iJewel3D</a>,
-    <a href="https://weride.live](https://weride-ruddy.vercel.app">WeRide</a>
+    <a href="https://weride-ruddy.vercel.app">WeRide</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" style="vertical-align: middle;">
   </em>
 </p>
